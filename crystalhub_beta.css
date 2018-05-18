@@ -1,0 +1,242 @@
+
+body {
+
+  background-image: url(images/background.jpg);
+
+  background-repeat:no-repeat;
+
+  background-position: center;
+
+  background-size: cover;
+
+  height: 100%;
+
+}
+
+p {
+
+  color: white;
+
+  text-align: center;
+
+  font-size: 30px;
+
+}
+
+h1 {
+
+  color: white;
+
+  text-align: center;
+
+  font-size: 50px
+
+}
+
+h2 {
+
+  color: white;
+
+  text-align: center;
+
+  font-size: 50px
+
+}
+
+.crystal {
+
+  float: left;
+
+}
+
+h4 {
+
+  text-align: center;
+
+  padding-top: 150px;
+
+  padding-left: 100px;
+
+}
+
+h5 {
+
+  text-align: center;
+
+  font-size: 40px;
+
+  padding-left: 180px;
+
+}
+
+h6 {
+
+  text-align: center;
+
+  font-size: 40px;
+
+  padding-left: 220px;
+    
+  margin-bottom: 0px;
+
+}
+
+#rose-quartz {
+
+  margin-bottom: 100px;
+
+  color: white;
+
+  font-size: 40px;
+
+}
+
+/* #rose-text{
+          position: absolute;
+          padding-bottom: 40px; 
+} */
+
+#amethyst {
+
+  color: white;
+
+  font-size: 40px;
+    
+  margin-top: 100px;
+    
+  margin-bottom: 0px;
+
+}
+
+#sapphire {
+
+  color: white;
+
+  font-size: 40px;
+
+  padding-top: 150px;
+
+}
+
+/* h3{
+    color: white;
+    margin-left: 314px;
+    margin-bottom: 500px;
+    margin-top: 70px;
+    font-size: 30px
+}
+
+h4{
+    color: white;
+    margin-left: 450px;
+    margin-bottom: 500px;
+    margin-top: 70px;
+    font-size: 30px
+} */
+
+img {
+
+  height: 600px;
+
+}
+
+#sapphire-img {
+
+  height: 500px;
+
+  padding-left: 200px;
+
+}
+
+#amethyst-img {
+
+  padding-left: 150px;
+
+}
+
+#rose-quartz-img {
+
+  margin-bottom: 100px;
+
+  padding-left: 60px;
+
+  padding-top: 50px;
+
+  height: 500px;
+
+}
+
+a{
+    color: white;
+    
+    text-decoration: none;
+    
+}
+
+a:hover{
+    
+        color: pink;
+    
+        font-size: 50px;
+}
+
+/* li{
+    display: inline;
+}
+ */
+
+/* #names{
+       background-color: black;
+       color: white;
+       margin-left: 500px;
+    
+       width: 300px; 
+}
+
+#names, li.{
+           padding-right: 50px; 
+           
+}
+
+/* .Amethyst{
+         color: white;
+         text-align: center;
+         padding-left: 85px;
+         padding-top: 40px;
+         font-size: 40px;
+}
+
+.Rose-Quartz{
+         color: white;
+         text-align: center; 
+         padding-right: 50px;
+         padding-top: 60px;
+         font-size: 40px;
+}
+
+.Sapphire{
+         color: white;
+         text-align: center; 
+         padding-right: 50px;
+         padding-top: 70px;
+         font-size: 40px; 
+} */
+
+/* #amethyst{
+             position: absolute;
+             left: 50px;
+             top: 350px;
+            }
+            
+#rose-quartz{
+            position: absolute;
+            left: 600px;
+            top: 380px;
+            }
+
+#black-obsidian{
+                position: absolute;
+                left: 900px;
+                top: 400px;
+                padding-left: 900px;
+} */
