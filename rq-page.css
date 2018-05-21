@@ -3,7 +3,7 @@ body {
 
   background-image: url(images/green-bg.png);
 
-  background-repeat:no-repeat;
+  background-repeat: repeat;
 
   background-position: center;
 
@@ -24,9 +24,11 @@ h1{
 
 p{
     text-align: right;
+    
+    font-size: 40px;
 }
 
-img{
+/* img{
     
     height: 1000px;
     
@@ -36,6 +38,13 @@ img{
 .rose-boarder, img{
     
     height: 400px;
+} 
+
+restricting webpage */
+
+.rose-boarder{
+    
+    width: 100%;
 }
 
 #boarder{
@@ -45,5 +54,5 @@ img{
 
 rose-quartz-img{
     
-    height: 1000px;
+    height: 2000px;
 }
