@@ -13,17 +13,45 @@ body {
 
 }
 
-h1{
+
+.buttons{
+    
+    width: 100%;
+}
+
+ul{
+    text-align: center;
+}
+
+li{
+    display: inline;
+}
+
+#name{
     
    text-align: center;
     
    margin-top: 100px;
     
    font-size: 100px;
+    
+   width: 50%;
 }
 
+#home{
+    
+    margin-right: 200px;
+}
+
+#next{
+    
+    margin-left: 200px;
+}
+
+
+
 p{
-/*     text-align: justify; */
+
     
     font-size: 30px;
     
@@ -38,10 +66,16 @@ p{
 
 .rose-info .text {
     float: right;
+    padding-right: 100px;
 }
 
 .rose-info img{
     float: left;
+}
+
+.rose-info{
+    
+    padding-top: 100px;
 }
 
 #rose-uses{
