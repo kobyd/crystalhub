@@ -21,6 +21,8 @@ body {
 
 ul{
     text-align: center;
+    font-family: Courier New;
+    font-weight: Bold;
 }
 
 li{
@@ -67,6 +69,8 @@ p{
 .rose-info .text {
     float: right;
     padding-right: 100px;
+    font-family: Courier New;
+    font-weight: Bold;
 }
 
 .rose-info img{
@@ -109,4 +113,15 @@ restricting webpage */
 #rose-quartz-img{
     
     height: 1000px;
+}
+
+a:hover{
+    
+    color: f1c40f;
+    font-size: 50px;
+}
+
+#next a:hover{
+    
+    color: #3742fa;
 }
