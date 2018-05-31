@@ -47,6 +47,8 @@ li {
 
   width: 50%;
 
+  font-family: 'Grand Hotel';
+
 }
 
 #home {
@@ -86,6 +88,10 @@ p {
   font-family: Courier New;
 
   font-weight: Bold;
+
+  padding-bottom: 0%;
+
+  /*   border: 10px solid yellow; shows me how much space this takes up */
 
 }
 
@@ -136,15 +142,29 @@ restricting webpage */
 #rose-quartz-img {
 
   height: 1000px;
-    
+
   margin-bottom: 100px;
+  
+  padding-left: 100px;
 
 }
 
-#rq-chunk-img{
-    
-    padding-left: 600px;
-    
+#rq-heart {
+
+  width: 300px;
+
+  padding-left: 500px;
+
+  margin-top: -600px;
+
+}
+
+#rq-heart-img {
+
+  height: 700px;
+
+  /*     border: 20px solid blue;  shows me the space the object is taking up */
+
 }
 
 a.topbarlink:hover {
@@ -161,7 +181,7 @@ a.topbarlink:hover {
 
 }
 
-#info-linksrq p {
+.info-linksrq p {
 
   clear: both;
 
@@ -175,18 +195,55 @@ a.topbarlink:hover {
 
 }
 
-.infolinksrq{
-    
-    font-size: 30px;
-    
-    width: initial;
-    
-    color: #DB0A5B;
+.shop {
 
-    padding-top: 50px;
+  font-family: Courier New;
+
+  font-weight: Bold;
+
 }
 
-.info-linksrq a:hover{
-    
-    color: #F1A9A0;
+.learn {
+
+  font-family: Courier New;
+
+  font-weight: bold;
+
+}
+
+.infolinksrq {
+
+  font-size: 20px;
+
+  font-family: Courier New;
+
+  font-weight: Bold;
+
+  width: initial;
+
+  color: #DB0A5B;
+
+  padding-top: 50px;
+}
+
+.shoplinksrq{
+     
+  font-size: 20px;
+
+  font-family: Courier New;
+
+  font-weight: Bold;
+
+  width: initial;
+
+  color: #DB0A5B;
+
+  padding-top: 50px;
+}
+
+.info-linksrq a:hover {
+  color: #F1A9A0;
+}
+#links {
+  padding-left: 100px;
 }
