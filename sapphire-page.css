@@ -1,7 +1,7 @@
 
 body {
 
-  background-image: url(images/green-bg.png);
+background-image: url(https://i.gifer.com/GHSe.gif);
 
   background-repeat: repeat;
 
@@ -47,7 +47,7 @@ li {
 
   width: 50%;
 
-  font-family:'Grand Hotel';
+  font-family: 'Syncopate';
 
 }
 
@@ -79,7 +79,7 @@ p {
 
 }
 
-.rose-info .text {
+.sapphire-info .text {
 
   float: right;
 
@@ -95,75 +95,49 @@ p {
 
 }
 
-.rose-info img {
+.sapphire-info img {
 
   float: left;
 
 }
 
-.rose-info {
+.sapphire-info {
 
   padding-top: 100px;
 
 }
 
-#rose-uses {
+#sapphire-uses {
 
   float: right;
 
 }
 
-/* img{
-    
-    height: 1000px;
-    
-    padding-left: 100px;
-}
-
-.rose-boarder, img{
-    
-    height: 400px;
-} 
-
-restricting webpage */
-
-.rose-boarder {
-
-  width: 100%;
-
-}
-
-#boarder {
-
-  text-align: center;
-
-}
-
-#rose-quartz-img {
+#sapphire-img {
 
   height: 1000px;
 
   margin-bottom: 100px;
-
+  
   padding-left: 200px;
 
 }
 
-#rq-heart {
+#sapphire-chunk {
 
   width: 300px;
 
-  padding-left: 750px;
+  padding-left: 700px;
 
   margin-top: -600px;
 
 }
 
-#rq-heart-img {
+#sapphire-chunk-img {
 
   height: 700px;
 
-  /*     border: 20px solid blue;  shows me the space the object is taking up */
+  /*     border: 20px solid blue;  shows me the space the object is taking up */ */
 
 }
 
@@ -178,7 +152,16 @@ a.topbarlink:hover {
 #next a:hover {
 
   color: #3742fa;
+     
+  font-size: 50px;
 
+}
+
+#home a:hover{
+     
+     color: red;
+     
+     font-size: 50px;
 }
 
 .info-linksrq p {
@@ -211,7 +194,7 @@ a.topbarlink:hover {
 
 }
 
-.infolinksrq {
+.infolinks-sap {
 
   font-size: 20px;
 
@@ -224,11 +207,10 @@ a.topbarlink:hover {
   color: #DB0A5B;
 
   padding-top: 50px;
-
 }
 
-.shoplinksrq {
-
+.shoplinks-sap{
+     
   font-size: 20px;
 
   font-family: Courier New;
@@ -240,17 +222,13 @@ a.topbarlink:hover {
   color: #DB0A5B;
 
   padding-top: 50px;
-
 }
 
-.info-linksrq a:hover {
-
-  color: #F1A9A0;
-
+.infolinks-sap a:hover {
+  
+     color: yellow;
 }
 
 #links {
-
-  padding-left: 300px;
-
+  padding-left: 350px;
 }
