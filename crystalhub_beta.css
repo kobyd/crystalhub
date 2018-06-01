@@ -1,7 +1,7 @@
 
 body {
 
-  background-image: url(images/background.jpg);
+  background-image: url(https://i.pinimg.com/originals/3e/c8/69/3ec869e51eef38eac2d159030ecf1784.gif);
 
   background-repeat:no-repeat;
 
@@ -21,6 +21,13 @@ p {
 
   font-size: 30px;
 
+}
+
+.text{
+     
+     font-family: Courier New;
+     
+     font-weight: Bold;
 }
 
 h1 {
@@ -76,6 +83,13 @@ h5 {
 
 }
 
+h5 a:hover{
+     
+     color: blue;
+     
+     font-size: 30px;
+}
+
 h6 {
 
   text-align: center;
@@ -103,6 +117,10 @@ h6 {
   margin-left: 5%;
      
   text-align: center;
+     
+  font-family: Courier New;
+     
+  font-weight: Bold;
 
 }
 
@@ -118,14 +136,16 @@ h6 {
   font-size: 40px;
     
   margin-top: 100px;
-    
-/*   margin-bottom: 0px; */
      
   margin-left: 1%;
   
   width: 40%;
      
   text-align: center;
+     
+  font-family: Courier New;
+     
+  font-weight: Bold;
 
 }
 
@@ -142,24 +162,13 @@ h6 {
   width: 25%;
      
   text-align: center;
+     
+  font-family: Courier New;
+     
+  font-weight: Bold;
 
 }
 
-/* h3{
-    color: white;
-    margin-left: 314px;
-    margin-bottom: 500px;
-    margin-top: 70px;
-    font-size: 30px
-}
-
-h4{
-    color: white;
-    margin-left: 450px;
-    margin-bottom: 500px;
-    margin-top: 70px;
-    font-size: 30px
-} */
 
 img {
 
@@ -170,8 +179,6 @@ img {
 #sapphire-img {
 
   height: 500px;
-
-/*   padding-left: 200px; */
 
 }
 
@@ -211,67 +218,6 @@ a{
 
 a:hover{
     
-        color: pink;
+color: pink;
     
 }
-
-/* li{
-    display: inline;
-}
- */
-
-/* #names{
-       background-color: black;
-       color: white;
-       margin-left: 500px;
-    
-       width: 300px; 
-}
-
-#names, li.{
-           padding-right: 50px; 
-           
-}
-
-/* .Amethyst{
-         color: white;
-         text-align: center;
-         padding-left: 85px;
-         padding-top: 40px;
-         font-size: 40px;
-}
-
-.Rose-Quartz{
-         color: white;
-         text-align: center; 
-         padding-right: 50px;
-         padding-top: 60px;
-         font-size: 40px;
-}
-
-.Sapphire{
-         color: white;
-         text-align: center; 
-         padding-right: 50px;
-         padding-top: 70px;
-         font-size: 40px; 
-} */
-
-/* #amethyst{
-             position: absolute;
-             left: 50px;
-             top: 350px;
-            }
-            
-#rose-quartz{
-            position: absolute;
-            left: 600px;
-            top: 380px;
-            }
-
-#black-obsidian{
-                position: absolute;
-                left: 900px;
-                top: 400px;
-                padding-left: 900px;
-} */

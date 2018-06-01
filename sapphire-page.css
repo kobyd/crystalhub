@@ -9,8 +9,6 @@ background-image: url(https://i.gifer.com/GHSe.gif);
 
   background-size: cover;
 
-  /*   height: 100%; */
-
   padding-bottom: 200px;
 
 }
@@ -149,9 +147,7 @@ a.topbarlink:hover {
 
 }
 
-#next a:hover {
-
-  color: #3742fa;
+#amethyst a:hover {
      
   font-size: 50px;
 
@@ -162,6 +158,11 @@ a.topbarlink:hover {
      color: red;
      
      font-size: 50px;
+}
+
+#next a:hover{
+     
+     color: #BF55EC;
 }
 
 .info-linksrq p {
@@ -204,7 +205,7 @@ a.topbarlink:hover {
 
   width: initial;
 
-  color: #DB0A5B;
+  color: #EF4836;
 
   padding-top: 50px;
 }
@@ -219,14 +220,23 @@ a.topbarlink:hover {
 
   width: initial;
 
-  color: #DB0A5B;
+  color: #EF4836;
 
   padding-top: 50px;
 }
 
-.infolinks-sap a:hover {
+.learn a:hover {
   
-     color: yellow;
+     color: blue;
+     
+     font-size: 30px;
+}
+
+.shop a:hover{
+     
+     color: blue;
+     
+     font-size: 30px;
 }
 
 #links {

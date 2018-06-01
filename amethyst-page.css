@@ -8,10 +8,6 @@ background-image: url(http://www.rookiemag.com/wp-content/uploads/2016/03/145684
 
   background-size: cover;
 
-  /*   height: 100%; */
-
-  padding-bottom: 200px;
-
 }
 
 .buttons {
@@ -47,6 +43,8 @@ li {
   width: 50%;
 
   font-family: 'Abril Fatface';
+     
+  color: white;
 
 }
 
@@ -75,6 +73,8 @@ p {
 .text {
 
   width: 30%;
+     
+  color: white;
 
 }
 
@@ -148,9 +148,14 @@ a.topbarlink:hover {
 
 }
 
+.topbarlink{
+     
+     color: white;
+}
+
 #next a:hover {
 
-  color: #3742fa;
+  color: pink;
      
   font-size: 50px;
 
@@ -182,6 +187,8 @@ a.topbarlink:hover {
   font-family: Courier New;
 
   font-weight: Bold;
+     
+  color: white;
 
 }
 
@@ -190,6 +197,8 @@ a.topbarlink:hover {
   font-family: Courier New;
 
   font-weight: bold;
+     
+  color: white;
 
 }
 
@@ -203,7 +212,7 @@ a.topbarlink:hover {
 
   width: initial;
 
-  color: #DB0A5B;
+  color: yellow;
 
   padding-top: 50px;
 }
@@ -218,16 +227,30 @@ a.topbarlink:hover {
 
   width: initial;
 
-  color: #DB0A5B;
+  color: yellow;
 
   padding-top: 50px;
 }
 
-.infolinks-am a:hover {
+.learn a:hover {
   
-     color: yellow;
+     color: white;
+     
+     font-size: 30px;
+}
+
+.shop a:hover{
+     
+     color: white;
+     
+     font-size: 30px;
 }
 
 #links {
   padding-left: 350px;
+}
+
+#charge{
+     
+     color: yellow;
 }

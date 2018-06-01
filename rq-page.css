@@ -1,7 +1,7 @@
 
 body {
 
-  background-image: url(images/green-bg.png);
+  background-image: url(https://i.gifer.com/19e7.gif);
 
   background-repeat: repeat;
 
@@ -54,6 +54,7 @@ li {
 #home {
 
   margin-right: 200px;
+  
 
 }
 
@@ -61,6 +62,21 @@ li {
 
   margin-left: 200px;
 
+}
+
+#next a:hover {
+
+  color: blue;
+     
+  font-size: 50px;
+
+}
+
+#home a:hover{
+     
+  color: red;
+     
+  font-size: 50px;
 }
 
 p {
@@ -167,12 +183,17 @@ restricting webpage */
 
 }
 
-a.topbarlink:hover {
+a.topbarlink: hover {
 
   color: f1c40f;
 
   font-size: 50px;
 
+}
+
+.topbarlink {
+     
+     color: white
 }
 
 #next a:hover {
@@ -209,6 +230,20 @@ a.topbarlink:hover {
 
   font-weight: bold;
 
+}
+
+.learn a:hover {
+  
+     color: pink;
+     
+     font-size: 30px;
+}
+
+.shop a:hover{
+     
+     color: pink;
+     
+     font-size: 30px;
 }
 
 .infolinksrq {
